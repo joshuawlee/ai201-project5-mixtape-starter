@@ -115,3 +115,13 @@ fix: correct Sunday boundary condition in streak reset logic
 ```
 
 See the project brief for full submission requirements.
+
+---
+
+## Bug Fixes
+
+All 5 issues above have been fixed on `bugfix/mixtape`, one commit per fix. Full root cause analysis for each (how it was reproduced, how the root cause was found, and what changed) is in [`submission.md`](submission.md), along with the codebase map and AI usage disclosure.
+
+`git log --oneline` on `bugfix/mixtape`:
+
+![git log --oneline on bugfix/mixtape showing 5 fix: commits and 1 docs: commit](docs/git-log-bugfix-mixtape.png)

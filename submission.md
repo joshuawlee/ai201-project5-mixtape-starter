@@ -1,5 +1,13 @@
 # Mixtape Bug Hunt — Submission
 
+## Commit History
+
+`git log --oneline` on `bugfix/mixtape`, showing one commit per bug fix plus a docs commit for this file:
+
+![git log --oneline on bugfix/mixtape showing 5 fix: commits and 1 docs: commit](docs/git-log-bugfix-mixtape.png)
+
+---
+
 ## AI Usage
 
 I used Claude Code (via the terminal, not a code-suggestion autocomplete) throughout this project, mainly for codebase orientation and for verifying my own diagnoses rather than for generating diagnoses from scratch.
